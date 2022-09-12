@@ -42,6 +42,9 @@
    <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
         <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge" />     
    </a>   
+   <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
+        <img src="https://images.credential.net/badge/tiny/o4ladj4f_1662933499188_badge.png" />     
+   </a>   
 </p>
 
 <h2><i>Let's Connect</i></h2>
