@@ -72,7 +72,7 @@
  | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuyishimireEric&show_icons=true&theme=radical" alt="TuyishimireEric" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyishimireEric&show_icons=true&theme=radical&layout=compact" alt="TuyishimireEric" width="410"/>|
 </p><br>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tuyishimire Eric's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TuyishimireEric&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Tuyishimire Eric's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuyishimireEric&theme=react-dark)](https://github.com/TuyishimireEric/github-readme-activity-graph)
 
 
 
