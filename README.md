@@ -48,17 +48,20 @@
 <a href="https://www.codewars.com/users/TuyishimireEric">  <img src="https://www.codewars.com/users/TuyishimireEric/badges/large" /></a></p>
 <p align="left">
    <a href="https://www.credential.net/f5c6ae87-c314-4d5d-b846-863c5b7918cf">
-       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950729" alt="Badge" />      
+       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950729" alt="Badge" width="190px"/>      
    </a>
    <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge" />     
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge"  width="190px" />     
    </a>   
    <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://images.credential.net/badge/tiny/o4ladj4f_1662933499188_badge.png" />     
+        <img src="https://images.credential.net/badge/tiny/o4ladj4f_1662933499188_badge.png"  width="190px" />     
    </a>   
     <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60643798" />     
-   </a>   
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60643798"  width="190px" />     
+   </a> 
+   <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774045"  width="190px"/>     
+   </a>
 </p>
 <p align="center">&nbsp;
 
@@ -71,8 +74,6 @@
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuyishimireEric&show_icons=true&theme=radical" alt="TuyishimireEric" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyishimireEric&show_icons=true&theme=radical&layout=compact" alt="TuyishimireEric" width="410"/>|
 </p><br>
-
-[![Tuyishimire Eric's github activity graph](https://activity-graph.herokuapp.com/graph?username=TuyishimireEric&theme=react-dark)](https://github.com/TuyishimireEric/github-readme-activity-graph)
 
 
 
