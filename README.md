@@ -16,12 +16,11 @@
 <!-- - <p>You can check out my portfolio <a href="[https://TuyishimireEric.github.io/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="80"></p> -->
 <br>
 
-- 🎓Recent Full-time student from Microverse 
-- I would like to contribute to the field of `Software development`    in the future.
+- 🎓Recent Full-time student from Microverse
+- I would like to contribute to the field of `Software development`    in the future
 - 🔭 I’m currently working on JavaScript, CSS and HTML
 - 👯 I’m looking to collaborate on open source projects
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and solving Problems.
-- 📫 How to reach me: 
+- 💪🏼 Future goals: learn more technologies, and never stop creating new ideas and solving problems
 
 <hr>
 <h3 align="left">:hammer_and_wrench: Languages and Tools: </h3>
