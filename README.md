@@ -47,22 +47,22 @@
 <a href="https://www.codewars.com/users/TuyishimireEric">  <img src="https://www.codewars.com/users/TuyishimireEric/badges/large" /></a></p>
 <p align="left">
    <a href="https://www.credential.net/f5c6ae87-c314-4d5d-b846-863c5b7918cf">
-       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950729" alt="Badge" width="150px"/>      
+       <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950729" alt="Badge" width="130px"/>      
    </a>
    <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge"  width="150px" />     
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857781" alt="Badge"  width="130px" />     
    </a>   
    <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://images.credential.net/badge/tiny/o4ladj4f_1662933499188_badge.png"  width="150px" />     
+        <img src="https://images.credential.net/badge/tiny/o4ladj4f_1662933499188_badge.png"  width="130px" />     
    </a>   
     <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60643798"  width="150px" />     
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60643798"  width="130px" />     
    </a> 
    <a href="https://www.credential.net/7a53dcfe-5e09-4e58-9c16-12a7bad14f35#gs.a6l6xa">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774045"  width="150px"/>     
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774045"  width="130px"/>     
    </a>
   <a href="https://www.credential.net/1b0060bf-87d6-4060-98ef-2f8c9de8d52d">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66716587"  width="150px"/>     
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66716587"  width="130px"/>     
    </a>
 </p>
 <p align="center">&nbsp;
