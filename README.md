@@ -6,7 +6,8 @@
  <td align="center">
  <img src="https://komarev.com/ghpvc/?username=TuyishimireEric&label=Profile%20views&color=0e75b6&style=flat" alt="TuyishimireEric" />
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/TuyishimireEric?color=green&logo=github">
- <p align="center"> Currently, I'm learning remote software development from <a href="https://www.microverse.org/">Microverse</a>. I spend most of my time learning different frameworks and technologies related to web development.</p>
+ <p align="center"> I am a full-stack developer with 3 years of experience in Node.js, Next Js, and Typescript. I used to be a graphic designer, which gives me a good eye for design. I've worked on many educational projects and have a strong understanding of system analysis and design. I love creating user-friendly solutions, learning new technologies, and working with both remote and physical teams. I'm passionate about developing innovative applications and always looking to grow professionally.
+.</p>
   </td>
    <td>
  <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="220" />
@@ -16,10 +17,9 @@
 <!-- - <p>You can check out my portfolio <a href="[https://TuyishimireEric.github.io/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="80"></p> -->
 <br>
 
-- 🎓Recent Full-time student from Microverse
+- 🎓Recent Fullstack Developer in SevenX
 - I would like to contribute to the field of `Software development`    in the future
-- 🔭 I’m currently working on JavaScript, CSS and HTML
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working on NextJs, Tailwind Css and PostgreSql 
 - 💪🏼 Future goals: learn more technologies, and never stop creating new ideas and solving problems
 
 <hr>
