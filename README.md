@@ -8,7 +8,7 @@
 
 Hello! I'm **Tuyishimire Eric**, a passionate **Full-Stack Developer** with over 4 years of experience in building web applications using **JavaScript**, **Node.js**, **Next.js**, and **TypeScript**. My background in **graphic design** gives me a unique edge in creating aesthetically pleasing and user-friendly interfaces. I specialize in educational projects, system analysis, and design, and I enjoy creating high-quality, innovative, and user-centered solutions.
 
-- 🔭 Currently working on: **REB MIS Project** and an **AI-Driven E-learning Platform** for primary students.
+- 🔭 Currently working on: **Ganza.io** an AI-Driven E-learning Platform for primary students.
 - 👯 Looking to collaborate on: **Software development** and **System analysis** projects.
 - 🌱 Currently learning: **Java** to expand my programming skill set.
 - ⚡ Fun Fact: I believe in continuous learning and never stop creating!
